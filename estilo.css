@@ -1,0 +1,56 @@
+html, body {
+    min-height: 100%;
+}
+body {
+    background-image: linear-gradient(rgb(112, 112, 112), rgb(0, 0, 0));
+    text-align: center;
+    color:rgb(180, 10, 10);
+    font-size: 27px;
+}
+#titi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    
+}
+.par {
+    color: rgb(240, 248, 255);
+    text-align: justify;
+    font-size: 22px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 15px;
+    border-radius: 20px;
+}
+a:link {
+    color: rgb(211, 43, 13);
+}
+a:hover {
+    color: rgba(255, 97, 97)
+}
+h1 {
+    text-shadow: 1px  2px rgb(0, 0, 0);
+}
+h2 {
+    text-align: left;
+    font-size: 30px;
+}
+td, th {
+    padding: 3px 30px;
+}
+#easteregg {
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+#ea {
+    color:rgb(180, 10, 10);
+    text-decoration: none;
+}
+td, th {
+    background-color: rgba(238, 248, 247, 0.801);
+    border-radius: 3px;
+    padding: 10px;
+    color: rgb(228, 13, 13);
+    border: 2px solid rgb(255, 255, 255);
+}
